@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ngneat/falso": "^6.4.0",
+    "mongodb": "^5.7.0"
+  }
+}
